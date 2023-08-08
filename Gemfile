@@ -13,4 +13,4 @@ gem "rake"
 
 gem "sinatra-activerecord"
 
-ruby "2.7.5"
+ruby "3.2.2"
