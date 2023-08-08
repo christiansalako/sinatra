@@ -12,3 +12,5 @@ gem "pg"
 gem "rake"
 
 gem "sinatra-activerecord"
+
+ruby "2.7.5"
